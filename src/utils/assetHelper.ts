@@ -1,3 +1,1 @@
-export const assetPaths = { 
-    
-};
+export const assetPaths = {};

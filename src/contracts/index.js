@@ -1,4 +1,4 @@
-import MergeContractabi from "./MergeKingdom.json";
-import SilverContractabi from "./Silver.json";
+import MergeContractabi from "./MERGEABI.json";
+import SilverContractabi from "./SILVERABI.json";
 
-export { MergeContractabi } ;
+export { MergeContractabi };

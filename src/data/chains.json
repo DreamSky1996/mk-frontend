@@ -1,9 +1,8 @@
 {
-    "5777": {
-      "name": "hardhat",
-      "symbol": "ETH",
-      "wrapper": "WETH",
-      "stableCoin": "USDT"
-    }
+  "5777": {
+    "name": "hardhat",
+    "symbol": "ETH",
+    "wrapper": "WETH",
+    "stableCoin": "USDT"
   }
-  
+}

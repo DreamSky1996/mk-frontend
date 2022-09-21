@@ -1,1 +1,1 @@
-export {default} from './Merge';
+export { default } from "./Merge";
